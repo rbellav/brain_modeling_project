@@ -1,2 +1,5 @@
 # brain_modeling
-Impact of Smartphone Addiction (SPA) on  Neuronal Information Efficiency:   LIF Modeling and Information Theory Applied to  Gray Matter Degradation
+### Impact of Smartphone Addiction (SPA) on  Neuronal Information Efficiency:   LIF Modeling and Information Theory Applied to  Gray Matter Degradation
+
+This study investigates the computational consequences of Smartphone Addiction (SPA) on neuronal information processing by integrating neuroimaging evidence with a Leaky Integrate-and-Fire (LIF) modeling framework. Empirical findings indicate that individuals with SPA exhibit reduced gray matter volume (GMV) in key regions of the Salience Network, particularly the left insula and anterior cingulate cortex (ACC). 
+In our model, GMV reduction was simulated as decreased synaptic weight (w=0.75), while ACC hypofunctionality was represented by increased synaptic noise (σ=0.25). Simulations reveal a 64% reduction in Mutual Information and 58% decrease in firing rate in the SPA-like condition, demonstrating severely impaired neuronal information transmission. Parametric analysis revealed a critical threshold at 60-70% connectivity, below which neural function collapses rapidly. 
